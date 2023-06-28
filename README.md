@@ -1,1 +1,1 @@
-# BASIC_수업
+# BASIC
